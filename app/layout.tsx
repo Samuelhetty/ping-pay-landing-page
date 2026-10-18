@@ -5,7 +5,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'PING PAY — Money moves at the speed of life',
   description: 'The bank-linked wallet for instant, everyday payments in Germany.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
