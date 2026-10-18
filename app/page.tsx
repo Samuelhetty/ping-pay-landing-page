@@ -30,7 +30,7 @@ function Logo({ invert = false }: { invert?: boolean }) {
     <img
       src={logoUrl}
       alt="PING PAY"
-      className={`h-10 w-auto object-contain ${invert ? 'brightness-0 invert' : ''}`}
+      className={`h-16 w-auto object-contain ${invert ? 'brightness-0 invert' : ''}`}
     />
   )
 }
